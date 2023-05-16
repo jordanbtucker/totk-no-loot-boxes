@@ -1,0 +1,6 @@
+/dist
+/out
+/src/bgyml/**/*
+/src/packs/**/*
+!/src/bgyml/.gitkeep
+!/src/packs/.gitkeep
