@@ -1,3 +1,4 @@
 /dist
 /out
+/src/tables/*.yml
 /tmp
