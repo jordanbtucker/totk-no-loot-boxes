@@ -6,7 +6,7 @@ param (
 
 $basename = 'NoLootBoxes'
 $outRoot = ".\out"
-$outDir = "$outRoot\romfs\Pack"
+$outDir = "$outRoot\$basename\romfs\Pack"
 $packsDir = ".\src\packs"
 $distDir = ".\dist"
 
