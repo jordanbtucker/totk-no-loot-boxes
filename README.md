@@ -3,6 +3,43 @@
 A mod for The Legend of Zelda: Tears of the Kingdom that guarantees rare items
 from amiibo chests.
 
+## Table of Contents
+
+- [What](#what)
+- [Why](#why)
+- [How](#how)
+- [Installation](#installation)
+  - [Switch](#switch)
+  - [Yuzu](#yuzu)
+  - [Ryujinx](#ryujinx)
+- [Compatibility](#compatibility)
+- [Drop Tables](#drop-tables)
+  - [Tears of the Kingdom Link](#tears-of-the-kingdom-link)
+  - [Breath of the Wild Archer Link](#breath-of-the-wild-archer-link)
+  - [Breath of the Wild Rider Link](#breath-of-the-wild-rider-link)
+  - [Breath of the Wild Zelda](#breath-of-the-wild-zelda)
+  - [Daruk](#daruk)
+  - [Revali](#revali)
+  - [Mipha](#mipha)
+  - [Urbosa](#urbosa)
+  - [Guardian](#guardian)
+  - [Bokoblin](#bokoblin)
+  - [Link's Awakening Link](#links-awakening-link)
+  - [Skyward Sword Link](#skyward-sword-link)
+  - [Skyward Sword Zelda](#skyward-sword-zelda)
+  - [Twilight Princess Link / Smash Bros. Link](#twilight-princess-link--smash-bros-link)
+  - [Wolf Link](#wolf-link)
+  - [Wind Waker Link / Smash Bros. Toon Link](#wind-waker-link--smash-bros-toon-link)
+  - [Wind Waker Zelda](#wind-waker-zelda)
+  - [Ocarina of Time Link / Smash Bros. Young Link](#ocarina-of-time-link--smash-bros-young-link)
+  - [Majora's Mask Link](#majoras-mask-link)
+  - [8-Bit Link](#8-bit-link)
+  - [Smash Bros. Zelda](#smash-bros-zelda)
+  - [Smash Bros. Sheik](#smash-bros-sheik)
+  - [Smash Bros. Ganondorf](#smash-bros-ganondorf)
+  - [Unknown, Possibly Unreleased Ganondorf](#unknown-possibly-unreleased-ganondorf)
+  - [Unknown, Possibly Unreleased Zelda](#unknown-possibly-unreleased-zelda)
+
 ## What
 
 No Loot Boxes ensures that amiibo chests will always contain a rare item if you
