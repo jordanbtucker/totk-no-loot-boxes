@@ -60,6 +60,14 @@ other versions of the game.
 This mod is not compatible with any mod that alters
 `romfs/Pack/ResidentCommon.pack.zs`.
 
+## Help
+
+If you encounter any bugs, have any questions, or need any help, please use
+[GitHub discussions](https://github.com/jordanbtucker/totk-no-loot-boxes/discussions).
+This way I will be immediately notified. I don't check sites like GameBanana and
+Nexus Mods every day, and I don't receive email notifications from them, so if
+you post something there, I might not see it for weeks for even months.
+
 ## Drop Tables
 
 These are the new amiibo drop tables as updated by this mod. For the Requirement
