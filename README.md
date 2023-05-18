@@ -60,6 +60,11 @@ other versions of the game.
 This mod is not compatible with any mod that alters
 `romfs/Pack/ResidentCommon.pack.zs`.
 
+Specifically, this mod alters
+`Game/AmiiboSetting/AmiiboSetting.game__ui__AmiiboSetting.bgyml` inside
+`ResidentCommon.pack.zs`, so it can be merged with any mod that also alters
+`ResidentCommon.pack.zs`.
+
 ## Help
 
 If you encounter any bugs, have any questions, or need any help, please use
