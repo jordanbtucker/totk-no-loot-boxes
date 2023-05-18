@@ -138,7 +138,8 @@ Hyrule, while "Depths" means you must visit The Depths at least once.
 
 | Item                   | Probability | Requirement |
 | ---------------------- | ----------: | ----------- |
-| Hyrule-Princess Fabric |        100% | None        |
+| Hyrule-Princess Fabric |         50% | None        |
+| Princess Zelda Fabric  |         50% | None        |
 
 ### Daruk
 
@@ -283,10 +284,11 @@ Hyrule, while "Depths" means you must visit The Depths at least once.
 
 ### Smash Bros. Ganondorf
 
-| Item              | Probability | Requirement |
-| ----------------- | ----------: | ----------- |
-| Demon King Fabric |         50% | None        |
-| Dusk Claymore     |         50% | Depths      |
+| Item               | Probability | Requirement |
+| ------------------ | ----------: | ----------- |
+| Demon King Fabric  |         34% | None        |
+| Gerudo-King Fabric |         33% | None        |
+| Dusk Claymore      |         33% | Depths      |
 
 ### Unknown, Possibly Unreleased Ganondorf
 
