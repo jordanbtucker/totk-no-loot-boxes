@@ -187,12 +187,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 3
     MinNumberOfDropChance: 2
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_28, DropGameData: '', IsCheclDropGameData: false, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_28, DropGameData: '', IsCheclDropGameData: false, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_28, DropGameData: '', IsCheclDropGameData: false, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_28, DropGameData: '', IsCheclDropGameData: false, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -880,15 +882,17 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_35, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 50,
+    - {ActorNameShort: Obj_SubstituteCloth_35, Probability: 34, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 33, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 33,
       TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_35, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 50,
+    - {ActorNameShort: Obj_SubstituteCloth_35, Probability: 34, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 33, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 33,
       TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
