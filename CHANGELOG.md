@@ -12,6 +12,8 @@ and this project adheres to
 
 - All drop tables have been updated to ensure chests contain weapons, bows, or
   shields after obtaining rare items.
+- Progression requirements have been removed, so all items can be acquired as
+  soon as amiibo can be used.
 
 ## [1.2.0] - 2023-05-18
 
