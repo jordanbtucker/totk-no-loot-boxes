@@ -24,12 +24,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_51, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_51, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_51, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_51, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -48,12 +50,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_166, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_166, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -83,12 +87,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_002, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_002, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -122,12 +128,16 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_26, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_26, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_035, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Weapon_01, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_26, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_26, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_035, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Weapon_01, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -154,12 +164,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_27, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_27, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_002, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_27, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_27, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_002, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -187,14 +199,16 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 3
     MinNumberOfDropChance: 2
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_28, DropGameData: '', IsCheclDropGameData: false, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_28, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_022, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_28, DropGameData: '', IsCheclDropGameData: false, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_28, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_52, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_022, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -212,28 +226,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_200_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_059, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_200_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_059, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -260,28 +266,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_225_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_41, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_060, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_41, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_060, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_225_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_41, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_060, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_41, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_060, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -298,28 +296,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 4
     MinNumberOfDropChance: 2
   - DropActorInfo:
-    - {ActorNameShort: Armor_215_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_45, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_45, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_057, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_215_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_45, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_45, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_057, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -336,28 +326,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 3
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_230_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_46, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_058, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_46, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_058, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_230_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_46, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_058, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_46, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_058, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -383,24 +365,22 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_210_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 25,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Upper, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_210_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 25,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Upper, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -426,24 +406,22 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_210_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 25,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Upper, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_210_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 25,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Upper, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -470,28 +448,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_205_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_059, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_205_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_059, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -509,28 +479,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_200_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_059, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_200_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_059, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -547,24 +509,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 3
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_1096_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_48, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_002, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_1096_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_48, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_002, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -592,16 +550,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_43, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Shield_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_43, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_057, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_43, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Shield_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_43, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_057, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -630,16 +586,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_39, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Bow_072, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_39, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_072, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_39, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Bow_072, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_39, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_072, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -667,12 +621,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_49, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_49, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_035, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_49, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_49, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_035, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -701,28 +657,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_205_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_059, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_205_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Upper, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Lower, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
-      Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 20, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_059, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -750,16 +698,20 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_220_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_37, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_37, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_220_Head, Probability: 48, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_041, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_041, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_029, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_220_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_37, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_37, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_220_Head, Probability: 48, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_041, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_041, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_029, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -788,17 +740,17 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Weapon_Sword_113, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
+    - {ActorNameShort: Weapon_Sword_112, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
       Probability: 30, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_113, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
+    - {ActorNameShort: Weapon_Lsword_112, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
       Probability: 30, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Spear_113, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
+    - {ActorNameShort: Weapon_Spear_112, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true,
       Probability: 30, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Sword_003, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
+    - {ActorNameShort: Weapon_Sword_002, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
       TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_003, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
+    - {ActorNameShort: Weapon_Lsword_002, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
       TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Spear_003, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
+    - {ActorNameShort: Weapon_Spear_002, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 20,
       TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
@@ -844,14 +796,18 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Item_Ore_F, Probability: 40, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Item_Ore_E, Probability: 10, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Item_Ore_D, Probability: 10, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Item_Ore_C, Probability: 10, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Item_Ore_B, Probability: 10, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Item_Ore_A, Probability: 5, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Item_Ore_J, Probability: 5, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Item_Ore_G, Probability: 10, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Ore_F, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Ore_E, Probability: 18, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Ore_D, Probability: 5, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Ore_C, Probability: 5, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Ore_B, Probability: 5, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Ore_A, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Ore_J, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Ore_G, Probability: 5, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_002, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 20,
+      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_035, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 15,
+      TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -882,18 +838,16 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_35, Probability: 34, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 33, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 33,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_35, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_057, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_35, Probability: 34, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 33, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Weapon_Lsword_057, DropGameData: IsVisitLocation.MinusField, IsCheclDropGameData: true, Probability: 33,
-      TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_35, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_53, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_057, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -915,12 +869,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 10
     MinNumberOfDropChance: 10
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -943,16 +899,16 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_183_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_29, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_183_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_036, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_183_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_29, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_183_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Lsword_036, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -980,16 +936,16 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_182_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_30, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_182_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_017, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_182_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_30, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_182_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_017, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -1016,16 +972,16 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_181_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_31, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_181_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Spear_027, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_181_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Obj_SubstituteCloth_31, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_181_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Spear_027, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -1046,16 +1002,18 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_184_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_32, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_32, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_184_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_029, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_026, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Armor_184_Head, DropGameData: GOToTheCastleOfHyrule_IsAfter_Ready_Exp, IsCheclDropGameData: true, Probability: 50,
-      TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Obj_SubstituteCloth_32, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_32, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_184_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Sword_029, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_026, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -1072,12 +1030,14 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_33, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_33, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Weapon_01, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_33, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_33, Probability: 99, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Item_Weapon_01, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
@@ -1096,12 +1056,16 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_34, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_34, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_005, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_34, Probability: 100, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_34, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Bow_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Weapon_Shield_005, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
