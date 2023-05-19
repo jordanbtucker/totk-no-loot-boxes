@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+### Features
+
+- All drop tables have been updated to ensure chests contain weapons, bows, or
+  shields after obtaining rare items.
+
 ## [1.2.0] - 2023-05-18
 
 ### Features

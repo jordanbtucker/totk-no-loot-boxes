@@ -42,9 +42,9 @@ from amiibo chests.
 
 ## What
 
-No Loot Boxes ensures that amiibo chests will always contain a rare item if you
-would normally be eligible for one. For example, if you use the Skyward Sword
-Zelda amiibo, then the amiibo chest is guaranteed to contain the Goddess Fabric.
+No Loot Boxes ensures that amiibo chests will contain a rare item if you would
+normally be eligible for one. For example, if you use the Skyward Sword Zelda
+amiibo, then the amiibo chest is guaranteed\* to contain the Goddess Fabric.
 
 ## Why
 
@@ -57,16 +57,14 @@ just get the rare amiibo items without the grind.
 ## How
 
 This mod alters the drop tables for amiibo so that all non-zero probabilities of
-receiving a rare item are raised to 100%. In other words, if you're at a point
-in the game where you _could_ receive a rare item from an amiibo, then you
-_will_.
+receiving a rare item are raised to near 100%. In other words, if you're at a
+point in the game where you _could_ receive a rare item from an amiibo, then you
+_will_.\*
 
-This mod does not give you rare items that are normally locked behind
-progression requirements, however. For example, in order to have a chance at
-receiving Sheik's Mask from the Smash Bros. Sheik amiibo, you must complete the
-Great Sky Island. With this mod, you still have to complete the Great Sky
-Island, but you're guarateed to get either Sheik's Mask or the Sheik Fabric each
-time you use the amiibo after that.
+\* Due to how the drop tables are configured, there is a small chance that you
+will not receive a rare item. This is to ensure that once you receive the rare
+item, like the fabric or armor set, you will continue to receive useful items
+like weapons, bows, and shields when you use the amiibo.
 
 ## Installation
 
@@ -91,8 +89,8 @@ Open Ryujinx. Right-click Tears of the Kingdom > Open Mods Directory. Copy the
 
 ## Compatibility
 
-This mod was tested with Tears of the Kingdom v1.1.0. Your mileage may vary with
-other versions of the game.
+This mod was tested with Tears of the Kingdom v1.1.0 and v1.1.1. Your mileage
+may vary with other versions of the game.
 
 This mod is not compatible with any mod that alters
 `romfs/Pack/ResidentCommon.pack.zs`.
@@ -110,194 +108,168 @@ This way I will be immediately notified. I don't check sites like GameBanana and
 Nexus Mods every day, and I don't receive email notifications from them, so if
 you post something there, I might not see it for weeks for even months.
 
-## Drop Tables
+## Drops
 
-These are the new amiibo drop tables as updated by this mod. For the Requirement
-column, "Hyrule" means you must complete the Great Sky Island and have access to
-Hyrule, while "Depths" means you must visit The Depths at least once.
+These are the chest items that amiibo will drop with this mod. Items in **bold**
+should appear first. Once you have obtained all **bold** items, you should begin
+receiving the rest of the items. Items marked with ✨ are weapons that have not
+been corrupted by gloom.
 
 ### Tears of the Kingdom Link
 
-| Item                       | Probability | Requirement |
-| -------------------------- | ----------: | ----------- |
-| Champion's Leathers Fabric |        100% | None        |
+- **Champion's Leathers Fabric**
+- Knight's Broadsword✨
 
 ### Breath of the Wild Archer Link
 
-| Item                     | Probability | Requirement |
-| ------------------------ | ----------: | ----------- |
-| Tunic of Memories Fabric |        100% | None        |
+- **Tunic of Memories Fabric**
+- Knight's Bow
+- Ancient Blade
 
 ### Breath of the Wild Rider Link
 
-| Item               | Probability | Requirement |
-| ------------------ | ----------: | ----------- |
-| Hylian-Hood Fabric |        100% | None        |
+- **Hylian-Hood Fabric**
+- Soldier's Broadsword✨
 
 ### Breath of the Wild Zelda
 
-| Item                   | Probability | Requirement |
-| ---------------------- | ----------: | ----------- |
-| Hyrule-Princess Fabric |         50% | None        |
-| Princess Zelda Fabric  |         50% | None        |
+- **Hyrule-Princess Fabric**
+- **Princess Zelda Fabric**
+- Royal Shield
 
 ### Daruk
 
-| Item                    | Probability | Requirement |
-| ----------------------- | ----------: | ----------- |
-| Goron-Champion Fabric   |         50% | None        |
-| Vah Rudania Divine Helm |         50% | Hyrule      |
+- **Goron-Champion Fabric**
+- **Vah Rudania Divine Helm**
+- Cobble Crusher✨
 
 ### Revali
 
-| Item                  | Probability | Requirement |
-| --------------------- | ----------: | ----------- |
-| Rito-Champion Fabric  |         50% | None        |
-| Vah Medoh Divine Helm |         50% | Hyrule      |
+- **Rito-Champion Fabric**
+- **Vah Medoh Divine Helm**
+- Falcon Bow
 
 ### Mipha
 
-| Item                 | Probability | Requirement |
-| -------------------- | ----------: | ----------- |
-| Zora-Champion Fabric |         50% | None        |
-| Vah Ruta Divine Helm |         50% | Hyrule      |
+- **Zora-Champion Fabric**
+- **Vah Ruta Divine Helm**
+- Zora Spear✨
 
 ### Urbosa
 
-| Item                    | Probability | Requirement |
-| ----------------------- | ----------: | ----------- |
-| Gerudo-Champion Fabric  |         50% | None        |
-| Vah Naboris Divine Helm |         50% | Hyrule      |
+- **Gerudo-Champion Fabric**
+- **Vah Naboris Divine Helm**
+- Gerudo Scimitar✨
+- Gerudo Shield
 
 ### Guardian
 
-| Item                   | Probability | Requirement |
-| ---------------------- | ----------: | ----------- |
-| Ancient Sheikah Fabric |        100% | None        |
+- **Ancient Sheikah Fabric**
+- Ancient Blade
 
 ### Bokoblin
 
-| Item            | Probability | Requirement |
-| --------------- | ----------: | ----------- |
-| Bokoblin Fabric |        100% | None        |
+- **Bokoblin Fabric**
+- Spiked Boko Bow
+- Spiked Boko Shield
 
 ### Link's Awakening Link
 
-| Item                  | Probability | Requirement |
-| --------------------- | ----------: | ----------- |
-| Egg Fabric            |         25% | None        |
-| Mask of Awakening     |         25% | Hyrule      |
-| Tunic of Awakening    |         25% | Hyrule      |
-| Trousers of Awakening |         25% | Hyrule      |
+- **Egg Fabric**
+- **Mask of Awakening**
+- **Tunic of Awakening**
+- **Trousers of Awakening**
+- Soldier's Broadsword✨
 
 ### Skyward Sword Link
 
-| Item                   | Probability | Requirement |
-| ---------------------- | ----------: | ----------- |
-| Sword-Spirit Fabric    |         20% | None        |
-| Cap of the Sky         |         20% | Hyrule      |
-| Tunic of the Sky       |         20% | Hyrule      |
-| Trousers of the Sky    |         20% | Hyrule      |
-| White Sword of the Sky |         20% | Depths      |
+- **Sword-Spirit Fabric**
+- **Cap of the Sky**
+- **Tunic of the Sky**
+- **Trousers of the Sky**
+- White Sword of the Sky
 
 ### Skyward Sword Zelda
 
-| Item           | Probability | Requirement |
-| -------------- | ----------: | ----------- |
-| Goddess Fabric |        100% | None        |
+- **Goddess Fabric**
+- Knight's Bow
 
 ### Twilight Princess Link / Smash Bros. Link
 
-| Item                      | Probability | Requirement |
-| ------------------------- | ----------: | ----------- |
-| Mirror of Twilight Fabric |         25% | None        |
-| Cap of Twilight           |         25% | Hyrule      |
-| Tunic of Twilight         |         25% | Hyrule      |
-| Trousers of Twilight      |         25% | Hyrule      |
+- **Mirror of Twilight Fabric**
+- **Cap of Twilight**
+- **Tunic of Twilight**
+- **Trousers of Twilight**
+- Knight's Broadsword✨
+- Knight's Shield
 
 ### Wolf Link
 
-| Item                      | Probability | Requirement |
-| ------------------------- | ----------: | ----------- |
-| Mirror of Twilight Fabric |        100% | None        |
+- **Mirror of Twilight Fabric**
+- Knight's Broadsword✨
 
 ### Wind Waker Link / Smash Bros. Toon Link
 
-| Item                     | Probability | Requirement |
-| ------------------------ | ----------: | ----------- |
-| King of Red Lions Fabric |         20% | None        |
-| Cap of the Wind          |         20% | Hyrule      |
-| Tunic of the Wind        |         20% | Hyrule      |
-| Trousers of the Wind     |         20% | Hyrule      |
-| Sea-Breeze Boomerang     |         20% | Depths      |
+- **King of Red Lions Fabric**
+- **Cap of the Wind**
+- **Tunic of the Wind**
+- **Trousers of the Wind**
+- Sea-Breeze Boomerang
 
 ### Wind Waker Zelda
 
-| Item                | Probability | Requirement |
-| ------------------- | ----------: | ----------- |
-| Bygone-Royal Fabric |         50% | None        |
-| Hero's Shield       |         50% | Depths      |
+- **Bygone-Royal Fabric**
+- Hero's Shield
 
 ### Ocarina of Time Link / Smash Bros. Young Link
 
-| Item                 | Probability | Requirement |
-| -------------------- | ----------: | ----------- |
-| Lon Lon Ranch Fabric |         20% | None        |
-| Cap of Time          |         20% | Hyrule      |
-| Tunic of Time        |         20% | Hyrule      |
-| Trousers of Time     |         20% | Hyrule      |
-| Biggoron's Sword     |         20% | Depths      |
+- **Lon Lon Ranch Fabric**
+- **Cap of Time**
+- **Tunic of Time**
+- **Trousers of Time**
+- Biggoron's Sword
 
 ### Majora's Mask Link
 
-| Item                 | Probability | Requirement |
-| -------------------- | ----------: | ----------- |
-| Majora's Mask Fabric |         20% | None        |
-| Fierce Deity Mask    |         20% | Hyrule      |
-| Fierce Deity Armor   |         20% | Hyrule      |
-| Fierce Deity Boots   |         20% | Hyrule      |
-| Fierce Deity Sword   |         20% | Depths      |
+- **Majora's Mask Fabric**
+- **Fierce Deity Mask**
+- **Fierce Deity Armor**
+- **Fierce Deity Boots**
+- Fierce Deity Sword
 
 ### 8-Bit Link
 
-| Item                 | Probability | Requirement |
-| -------------------- | ----------: | ----------- |
-| Pixel Fabric         |         20% | None        |
-| Cap of the Hero      |         20% | Hyrule      |
-| Tunic of the Hero    |         20% | Hyrule      |
-| Trousers of the Hero |         20% | Hyrule      |
-| Sword of the Hero    |         20% | Depths      |
+- **Pixel Fabric**
+- **Cap of the Hero**
+- **Tunic of the Hero**
+- **Trousers of the Hero**
+- Sword of the Hero
 
 ### Smash Bros. Zelda
 
-| Item                        | Probability | Requirement |
-| --------------------------- | ----------: | ----------- |
-| Princess of Twilight Fabric |         50% | None        |
-| Dusk Bow                    |         50% | Depths      |
+- **Princess of Twilight Fabric**
+- Dusk Bow
 
 ### Smash Bros. Sheik
 
-| Item         | Probability | Requirement |
-| ------------ | ----------: | ----------- |
-| Sheik Fabric |         50% | None        |
-| Sheik's Mask |         50% | Hyrule      |
+- **Sheik Fabric**
+- **Sheik's Mask**
+- Eightfold Blade✨
+- Shield of the Mind's Eye
+- Phrenic Bow
 
 ### Smash Bros. Ganondorf
 
-| Item               | Probability | Requirement |
-| ------------------ | ----------: | ----------- |
-| Demon King Fabric  |         34% | None        |
-| Gerudo-King Fabric |         33% | None        |
-| Dusk Claymore      |         33% | Depths      |
+- **Demon King Fabric**
+- **Gerudo-King Fabric**
+- Dusk Claymore
 
 ### Unknown, Possibly Unreleased Ganondorf
 
-| Item               | Probability | Requirement |
-| ------------------ | ----------: | ----------- |
-| Gerudo-King Fabric |        100% | None        |
+- **Gerudo-King Fabric**
+- Gloom Sword
 
 ### Unknown, Possibly Unreleased Zelda
 
-| Item                  | Probability | Requirement |
-| --------------------- | ----------: | ----------- |
-| Princess Zelda Fabric |        100% | None        |
+- **Princess Zelda Fabric**
+- Soldier's Broadsword✨
