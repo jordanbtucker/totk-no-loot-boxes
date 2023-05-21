@@ -141,25 +141,25 @@ been corrupted by gloom.
 ### Daruk
 
 - **Goron-Champion Fabric**
-- **Vah Rudania Divine Helm**
+- Vah Rudania Divine Helm
 - Cobble Crusher✨
 
 ### Revali
 
 - **Rito-Champion Fabric**
-- **Vah Medoh Divine Helm**
+- Vah Medoh Divine Helm
 - Falcon Bow
 
 ### Mipha
 
 - **Zora-Champion Fabric**
-- **Vah Ruta Divine Helm**
+- Vah Ruta Divine Helm
 - Zora Spear✨
 
 ### Urbosa
 
 - **Gerudo-Champion Fabric**
-- **Vah Naboris Divine Helm**
+- Vah Naboris Divine Helm
 - Gerudo Scimitar✨
 - Gerudo Shield
 
@@ -177,17 +177,17 @@ been corrupted by gloom.
 ### Link's Awakening Link
 
 - **Egg Fabric**
-- **Mask of Awakening**
-- **Tunic of Awakening**
-- **Trousers of Awakening**
+- Mask of Awakening
+- Tunic of Awakening
+- Trousers of Awakening
 - Soldier's Broadsword✨
 
 ### Skyward Sword Link
 
 - **Sword-Spirit Fabric**
-- **Cap of the Sky**
-- **Tunic of the Sky**
-- **Trousers of the Sky**
+- Cap of the Sky
+- Tunic of the Sky
+- Trousers of the Sky
 - White Sword of the Sky
 
 ### Skyward Sword Zelda
@@ -198,9 +198,9 @@ been corrupted by gloom.
 ### Twilight Princess Link / Smash Bros. Link
 
 - **Mirror of Twilight Fabric**
-- **Cap of Twilight**
-- **Tunic of Twilight**
-- **Trousers of Twilight**
+- Cap of Twilight
+- Tunic of Twilight
+- Trousers of Twilight
 - Knight's Broadsword✨
 - Knight's Shield
 
@@ -212,9 +212,9 @@ been corrupted by gloom.
 ### Wind Waker Link / Smash Bros. Toon Link
 
 - **King of Red Lions Fabric**
-- **Cap of the Wind**
-- **Tunic of the Wind**
-- **Trousers of the Wind**
+- Cap of the Wind
+- Tunic of the Wind
+- Trousers of the Wind
 - Sea-Breeze Boomerang
 
 ### Wind Waker Zelda
@@ -225,25 +225,25 @@ been corrupted by gloom.
 ### Ocarina of Time Link / Smash Bros. Young Link
 
 - **Lon Lon Ranch Fabric**
-- **Cap of Time**
-- **Tunic of Time**
-- **Trousers of Time**
+- Cap of Time
+- Tunic of Time
+- Trousers of Time
 - Biggoron's Sword
 
 ### Majora's Mask Link
 
 - **Majora's Mask Fabric**
-- **Fierce Deity Mask**
-- **Fierce Deity Armor**
-- **Fierce Deity Boots**
+- Fierce Deity Mask
+- Fierce Deity Armor
+- Fierce Deity Boots
 - Fierce Deity Sword
 
 ### 8-Bit Link
 
 - **Pixel Fabric**
-- **Cap of the Hero**
-- **Tunic of the Hero**
-- **Trousers of the Hero**
+- Cap of the Hero
+- Tunic of the Hero
+- Trousers of the Hero
 - Sword of the Hero
 
 ### Smash Bros. Zelda
@@ -254,7 +254,7 @@ been corrupted by gloom.
 ### Smash Bros. Sheik
 
 - **Sheik Fabric**
-- **Sheik's Mask**
+- Sheik's Mask
 - Eightfold Blade✨
 - Shield of the Mind's Eye
 - Phrenic Bow
