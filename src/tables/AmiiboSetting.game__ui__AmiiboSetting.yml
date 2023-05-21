@@ -35,7 +35,7 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_1048
+  NumberingID: NumberingID_1048 # TotK Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Meat_01, Probability: 100}
@@ -61,7 +61,7 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_1050
+  NumberingID: NumberingID_1050 # Unknown, Possibly TotK Ganondorf
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_PlantGet_A, Probability: 35}
@@ -98,7 +98,7 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_1049
+  NumberingID: NumberingID_1049 # Unknown, Possibly TotK Zelda
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Animal_Fish_A, Probability: 12, TreasureBoxActorShort: ''}
@@ -141,7 +141,7 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_851
+  NumberingID: NumberingID_851 # Archer Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Mushroom_E, Probability: 35}
@@ -175,7 +175,7 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_852
+  NumberingID: NumberingID_852 # Rider Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_PlantGet_A, Probability: 35}
@@ -212,7 +212,7 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_854
+  NumberingID: NumberingID_854 # BotW Zelda
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Meat_01, Probability: 90}
@@ -226,24 +226,24 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Lsword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Lsword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_843
+  NumberingID: NumberingID_843 # Ocarina of Time Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Mushroom_E, Probability: 35}
@@ -266,24 +266,24 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_41, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_41, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Lsword_060, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_41, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_225_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_41, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_225_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Lsword_060, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_844
+  NumberingID: NumberingID_844 # Majora's Mask Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Kibako_Contain_01, Probability: 100}
@@ -296,24 +296,24 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 4
     MinNumberOfDropChance: 2
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_45, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_45, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_057, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_45, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_215_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_45, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_215_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_057, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_846
+  NumberingID: NumberingID_846 # Skyward Sword Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Barrel, Probability: 100}
@@ -326,24 +326,24 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 3
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_46, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_46, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_058, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_46, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_230_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_46, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_230_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_058, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_847
+  NumberingID: NumberingID_847 # 8-Bit Link
 - AmiiboSpecialDeal: Epona
   DropActorInfoListSet:
   - DropActorInfo:
@@ -365,26 +365,26 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Upper, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 95, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Shield_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Upper, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 95, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Shield_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_4
+  NumberingID: NumberingID_4 # Smash Bros. Link
 - AmiiboSpecialDeal: Epona
   DropActorInfoListSet:
   - DropActorInfo:
@@ -406,26 +406,26 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Upper, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 95, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Shield_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Upper, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_210_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_38, Probability: 95, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_210_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Shield_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_003, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_845
+  NumberingID: NumberingID_845 # Twilight Princess Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Animal_Fish_A, Probability: 34}
@@ -448,24 +448,24 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_848
+  NumberingID: NumberingID_848 # Wind Waker Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Meat_01, Probability: 90}
@@ -479,24 +479,24 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Lsword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_200_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_40, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_200_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Lsword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_892
+  NumberingID: NumberingID_892 # Smash Bros. Young Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Barrel, Probability: 100}
@@ -509,24 +509,24 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 3
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_48, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_48, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_002, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_48, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_1096_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_48, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_1096_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_002, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_921
+  NumberingID: NumberingID_921 # Link's Awakening Link
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_PlantGet_A, Probability: 35}
@@ -561,7 +561,7 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_850
+  NumberingID: NumberingID_850 # Wind Waker Zelda
 - AmiiboSpecialDeal: None
   DropActorInfoListSet:
   - DropActorInfo:
@@ -597,7 +597,7 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_14
+  NumberingID: NumberingID_14 # Smash Bros. Zelda
 - DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_PlantGet_A, Probability: 35}
@@ -632,9 +632,9 @@ AmiiboDropActorSettingSet:
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
-  NumberingID: NumberingID_1044
+  NumberingID: NumberingID_1044 # Skyward Sword Zelda
 - AmiiboSetType: CharacterID
-  CharacterIDType: ToonLink
+  CharacterIDType: ToonLink # Smash Bros. Toon Link
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Animal_Fish_A, Probability: 34}
@@ -657,25 +657,25 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Head, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Upper, Probability: 25, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_205_Lower, Probability: 24, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_36, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Upper, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_205_Lower, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_059, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
 - AmiiboSetType: CharacterID
-  CharacterIDType: Sheik
+  CharacterIDType: Sheik # Smash Bros. Sheik
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Mushroom_E, Probability: 35}
@@ -698,8 +698,8 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_37, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_220_Head, Probability: 48, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_37, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_220_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_041, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Shield_041, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Bow_029, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
@@ -707,8 +707,8 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_37, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_220_Head, Probability: 48, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_37, Probability: 96, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_220_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_041, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Shield_041, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Bow_029, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
@@ -717,7 +717,7 @@ AmiiboDropActorSettingSet:
     MinNumberOfDropChance: 1
   NumberingID: Unknown
 - AmiiboSetType: CharacterBaseID
-  CharacterBaseIDType: Link
+  CharacterBaseIDType: Link # Unknown Link
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Animal_Fish_A, Probability: 34}
@@ -772,7 +772,7 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
 - AmiiboSetType: CharacterBaseID
-  CharacterBaseIDType: Zelda
+  CharacterBaseIDType: Zelda # Unknown Zelda
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_PlantGet_A, Probability: 35}
@@ -824,7 +824,7 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
 - AmiiboSetType: CharacterBaseID
-  CharacterBaseIDType: Ganon
+  CharacterBaseIDType: Ganon # Smash Bros. Ganondorf
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Meat_01, Probability: 100}
@@ -852,7 +852,7 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
 - AmiiboSetType: CharacterBaseID
-  CharacterBaseIDType: WolfLink
+  CharacterBaseIDType: WolfLink # Wolf Link
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Meat_01, Probability: 80}
@@ -881,7 +881,7 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
 - AmiiboSetType: CharacterBaseID
-  CharacterBaseIDType: Darukel
+  CharacterBaseIDType: Darukel # Daruk
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Ore_H, Probability: 60}
@@ -899,21 +899,21 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_29, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_183_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_29, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_183_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Lsword_036, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_29, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_183_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_29, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_183_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Lsword_036, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
 - AmiiboSetType: CharacterBaseID
-  CharacterBaseIDType: Reval
+  CharacterBaseIDType: Reval # Revali
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Fruit_A, Probability: 20}
@@ -936,21 +936,21 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_30, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_182_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_30, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_182_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Bow_017, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_30, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_182_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_30, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_182_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Bow_017, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
 - AmiiboSetType: CharacterBaseID
-  CharacterBaseIDType: Mifar
+  CharacterBaseIDType: Mifar # Mipha
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Animal_Fish_A, Probability: 34}
@@ -972,21 +972,21 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_31, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_181_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_31, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_181_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Spear_027, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_31, Probability: 50, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_181_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_31, Probability: 98, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_181_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Spear_027, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
 - AmiiboSetType: CharacterBaseID
-  CharacterBaseIDType: Uruboza
+  CharacterBaseIDType: Uruboza # Urbosa
   DropActorInfoListSet:
   - DropActorInfo:
     - {ActorNameShort: Item_Meat_01, Probability: 40}
@@ -1002,16 +1002,16 @@ AmiiboDropActorSettingSet:
     MaxNumberOfDropChance: 2
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_32, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_184_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_32, Probability: 97, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_184_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_029, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Shield_026, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: BigHit
     MaxNumberOfDropChance: 1
     MinNumberOfDropChance: 1
   - DropActorInfo:
-    - {ActorNameShort: Obj_SubstituteCloth_32, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
-    - {ActorNameShort: Armor_184_Head, Probability: 49, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Obj_SubstituteCloth_32, Probability: 97, TreasureBoxActorShort: TBox_Field_Iron}
+    - {ActorNameShort: Armor_184_Head, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Sword_029, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     - {ActorNameShort: Weapon_Shield_026, Probability: 1, TreasureBoxActorShort: TBox_Field_Iron}
     DropRsultType: GreatHit
