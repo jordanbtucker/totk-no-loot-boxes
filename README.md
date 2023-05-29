@@ -90,8 +90,8 @@ Open Ryujinx. Right-click Tears of the Kingdom > Open Mods Directory. Copy the
 
 ## Compatibility
 
-This mod was tested with Tears of the Kingdom v1.1.0 and v1.1.1. Your mileage
-may vary with other versions of the game.
+This mod was tested with Tears of the Kingdom v1.1.0, v1.1.1, and v1.1.2. Your
+mileage may vary with other versions of the game.
 
 This mod is not compatible with any mod that alters
 `romfs/Pack/ResidentCommon.pack.zs`.
