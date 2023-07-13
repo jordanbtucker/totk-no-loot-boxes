@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.0] - 2023-07-13
+
+### Breaking Changes
+
+- No Loot Boxes v3.0.0 is only compatible with Tears of the Kingdom v1.2.0 and
+  possibly later versions. No changes have been made to the amiibo drop tables,
+  however the pack file that contains the amiibo data was updated, so a new
+  version of this mod needed to be created. To use this mod with Tears of the
+  Kingdom v1.1.x, use the latest v2 version of this mod.
+
 ## [2.0.1] - 2023-05-21
 
 ### Fixes
@@ -43,6 +53,7 @@ and this project adheres to
 
 - Added the initial implementation of this mod.
 
+[3.0.0]: https://github.com/jordanbtucker/totk-no-loot-boxes/releases/tag/v3.0.0
 [2.0.1]: https://github.com/jordanbtucker/totk-no-loot-boxes/releases/tag/v2.0.1
 [2.0.0]: https://github.com/jordanbtucker/totk-no-loot-boxes/releases/tag/v2.0.0
 [1.2.0]: https://github.com/jordanbtucker/totk-no-loot-boxes/releases/tag/v1.2.0

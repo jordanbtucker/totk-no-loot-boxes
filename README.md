@@ -69,6 +69,12 @@ like weapons, bows, and shields when you use the amiibo.
 
 ## Installation
 
+To use this mod with Tears of the Kingdom v1.2.0 or later, use the latest
+version of
+[No Loot Boxes v3](https://github.com/jordanbtucker/totk-no-loot-boxes/releases/latest).
+To use this mod with Tears of the Kingdom v1.1.x, use the latest version of
+[No Loot Boxes v2](https://github.com/jordanbtucker/totk-no-loot-boxes/releases/tag/v2.0.1).
+
 ### Switch
 
 Your Switch must be hacked/modded to install this mod, and you must be running
@@ -90,7 +96,7 @@ Open Ryujinx. Right-click Tears of the Kingdom > Open Mods Directory. Copy the
 
 ## Compatibility
 
-This mod was tested with Tears of the Kingdom v1.1.0, v1.1.1, and v1.1.2. Your
+This mod was tested with Tears of the Kingdom v1.1.0 through v1.2.0. Your
 mileage may vary with other versions of the game.
 
 This mod is not compatible with any mod that alters
